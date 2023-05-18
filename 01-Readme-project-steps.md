@@ -1,14 +1,20 @@
+## Project steps
+
 ### Step 1: Setup
 
 Start by setting up your development environment. Ensure that you have Node.js and npm (Node Package Manager) installed on your machine. You can install Vite globally using the following command:
 
-`npm install -g create-vite`
+``` bash
+npm install -g create-vite
+````
 
-## Step 2: Initialize the Project
+### Step 2: Initialize the Project
 
 Create a new Vite project using the following command:
 
-`create-vite wms-app`
+``` bash
+create-vite wms-app
+```
 
 Navigate into the project directory:
 
