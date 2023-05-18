@@ -1,4 +1,4 @@
-## Project steps
+## WMS App - Project steps
 
 ### Step 1: Setup
 
