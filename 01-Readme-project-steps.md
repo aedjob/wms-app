@@ -6,7 +6,7 @@ Start by setting up your development environment. Ensure that you have Node.js a
 
 ``` bash
 npm install -g create-vite
-````
+```
 
 
 ### Step 2: Initialize the Project
@@ -19,7 +19,9 @@ create-vite wms-app
 
 Navigate into the project directory:
 
-`cd wms-app`
+``` bash
+cd wms-app
+```
 
 
 ### Step 3: Install Dependencies
