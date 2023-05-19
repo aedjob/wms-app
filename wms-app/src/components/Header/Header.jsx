@@ -3,9 +3,9 @@ import './Header.css'
 
 const Header = () => {
     return (
-      <header>
+      <header className="header-header">
         <div className="logo">WMS App</div>
-        <nav>
+        <nav className="header-nav">
           <ul>
             <li>
               <a href="/">Home</a>
