@@ -1,0 +1,10 @@
+.dashboard-container {
+    width: 1050px; /* Adjust the width as needed */
+    height: 83vh; /* Set the sidebar height to full viewport height */
+    background-color: #e3e4e8; /* Set the desired background color */
+    padding: 16px; /* Add padding to the sidebar */
+    position: fixed; /* Set the sidebar position to fixed */
+    top: 65px; /* Set the top position to the height of the header */
+    left: 190px; /* Position the sidebar on the left side */
+    bottom: 0; /* Set the bottom position to 0 */
+}
